@@ -1,1 +1,8 @@
+# To customise Jekyll Slate theme visit the following link
+# https://github.com/pages-themes/slate
 theme: jekyll-theme-slate
+title: Webplumbr
+description: Providing web solutions for business needs
+markdown: kramdown
+owner_name: Webplumbr
+base_url: http://webplumbr.com
