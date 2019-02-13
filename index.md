@@ -76,7 +76,7 @@ applies. Some relevant technology skills:
  
 # The Where
 
-I enjoy automating tasks, analysing and interpolating data, and overall 
+I enjoy automating tasks, analysing and interpreting data, and overall 
 product ownership. I see myself heading in that direction in near future. Engaging 
 and talking to end-users on how they use the product offers vital clue on how the 
 product is being perceived outside of the factory (i.e. development team). Understanding 
