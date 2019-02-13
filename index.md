@@ -23,6 +23,7 @@ tools:
   - Symfony
   - Git
   - Bamboo CI
+  - AWS
 ---
 # The Who
 
@@ -67,10 +68,10 @@ not be relevant in terms of today's development yet the experience learnt still
 applies. Some relevant technology skills:
 
 {% for tool in page.tools %}<span class="tool">{{ tool }}</span> {% endfor %}
-
+ 
 # The Where
 
-I enjoy solving technical problems, data analysis, business intelligence and overall 
+I enjoy automating tasks, analysing and interpolating data, and overall 
 product ownership. I see myself heading in that direction in near future. Engaging 
 and talking to end-users on how they use the product offers vital clue on how the 
 product is being perceived outside of the factory (i.e. development team). Understanding 
