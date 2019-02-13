@@ -92,4 +92,6 @@ technology tools match. For a longer relationship, I think, the overall picture 
 That said, I am open towards long-term contracts across Companies or full-time role in a 
 place that factors in holistic development.
 
+> **contact** [at] **webplumbr** [dot] **com**
+
 Currently I'm <span class="sign-board">open</span> for new opportunities.
