@@ -6,7 +6,7 @@ tools:
   - PHP 7
   - MySQL 5.x
   - Mongo DB
-  - ECMA Script 2015
+  - JavaScript (ECMA 5)
   - TypeScript
   - Python
   - Docker
@@ -24,6 +24,10 @@ tools:
   - Git
   - Bamboo CI
   - AWS
+  - Ansible
+  - Elastisearch
+  - Logstash
+  - Varnish Cache
 ---
 # The Who
 
@@ -67,7 +71,8 @@ Working with web has helped me accumulate certain skills over the years. Some mi
 not be relevant in terms of today's development yet the experience learnt still 
 applies. Some relevant technology skills:
 
-{% for tool in page.tools %}<span class="tool">{{ tool }}</span> {% endfor %}
+{% assign tools = page.tools | sort %}
+{% for tool in tools %}<span class="tool">{{ tool }}</span> {% endfor %}
  
 # The Where
 
