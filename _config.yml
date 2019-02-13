@@ -1,8 +1,27 @@
+# -----------------------------------------------------------------------------
+#
+# How to edit YAML file:
+#   https://gettaurus.org/docs/YAMLTutorial/
+#
 # To customise Jekyll Slate theme visit the following link
-# https://github.com/pages-themes/slate
-theme: jekyll-theme-slate
+#   https://github.com/pages-themes/cayman
+#
+# To learn about how to edit markdown text visit:
+#   https://kramdown.gettalong.org/syntax.html
+#
+# To understand Jekyll visit:
+#   https://jekyllrb.com/docs/step-by-step/01-setup/
+#
+# List of Jekyll plugins supported by Github pages
+#   https://pages.github.com/versions/
+#
+# Liquid is the templating language used by Jekyll and supported by Github pages
+#   https://jekyllrb.com/docs/step-by-step/02-liquid/
+#   https://shopify.github.io/liquid/basics/introduction/
+#
+# -----------------------------------------------------------------------------
+theme: jekyll-theme-cayman
 title: Webplumbr
 description: Providing web solutions for business needs
 markdown: kramdown
 owner_name: Webplumbr
-base_url: http://webplumbr.com

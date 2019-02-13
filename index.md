@@ -1,8 +1,79 @@
+---
+layout: default
+title: Providing web solutions for business needs
+tools:
+  - PHP 5
+  - PHP 7
+  - MySQL 5.x
+  - Mongo DB
+  - ECMA Script 2015
+  - TypeScript
+  - Python
+  - Docker
+  - Vagrant
+  - Apache
+  - Nginx
+  - Shell scripting
+  - Linux
+  - REST API
+  - Regex
+  - jQuery
+  - Bootstrap
+  - Laravel
+  - Symfony
+  - Git
+  - Bamboo CI
+---
 # The Who
 
-Webplumbr is an experienced web applications developer and solutions architect, offering solutions for business and community needs. He is based out of Sydney, Australia.
+> Hi! This is Prasanna (a.k.a Webplumbr). 
 
-## Principles
+I am an experienced web applications 
+developer with site operations background, offering solutions for business and 
+community needs. I am presently based out of Sydney, Australia.
 
-- Offer reliable and committed technical support
-- Write maintainable code and advocate version control
+I like solving technical problems and these days I enjoy sharing my learned 
+experience with Junior members of the team. It is hard to limit myself to a 
+"titled role" as I believe it is essential to understand the business problem 
+(from a bird's eye view) in order to arrive at a technical solution (specifics) 
+that would be appropriate in solving the problem.
+
+With modern technology tools and stack, most of the times the problem would have 
+been faced by someone else and it is a matter of checking if a tool or library 
+exists already. Now, how it is implemented and other considerations come with 
+experience. I advocate less complicated frameworks or implementations that follow 
+a pattern and offers repeatable behaviour. It offers predictable and repeatable 
+approach in solving a solution.
+
+These days, I prefer a work-life balance in order to focus and spend time with 
+my family. So, please keep this in mind before you consider me for a role. That 
+said, I am committed to what I undertake and thrive well in environment that 
+has less layers of fat and a consideration for basic human values.
+
+I have worked across different sized Companies, profit and non-profit, and 
+across economies, developed ones such as US of A, New Zealand, Australia 
+ and developing ones such as India. So, I am quite comfortable working in a 
+ multi-cultural setup.
+ 
+> I am a person with multi-faceted interests. 
+
+I enjoy unlearning things from kids, writing about life experience, motorcycle 
+rides, DIY fixes, movies etc. This keeps me engaged and helps me draw inspiration 
+from different walks of life.
+
+# The What
+
+Working with web has helped me accumulate certain skills over the years. Some might 
+not be relevant in terms of today's development yet the experience learnt still 
+applies. Some relevant technology skills:
+
+{% for tool in page.tools %}<span class="tool">{{ tool }}</span> {% endfor %}
+
+# The Where
+
+I enjoy solving technical problems, data analysis, business intelligence and overall 
+product ownership. I see myself heading in that direction in near future. Engaging 
+and talking to end-users on how they use the product offers vital clue on how the 
+product is being perceived outside of the factory (i.e. development team). Understanding 
+this helps in prioritising product issues and help improve product offering and 
+visibility.
