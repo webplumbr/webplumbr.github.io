@@ -42,8 +42,7 @@ With modern technology tools and stack, most of the times the problem would have
 been faced by someone else and it is a matter of checking if a tool or library 
 exists already. Now, how it is implemented and other considerations come with 
 experience. I advocate less complicated frameworks or implementations that follow 
-a pattern and offers repeatable behaviour. It offers predictable and repeatable 
-approach in solving a solution.
+a pattern and offers predictable and repeatable approach in solving a problem.
 
 These days, I prefer a work-life balance in order to focus and spend time with 
 my family. So, please keep this in mind before you consider me for a role. That 
@@ -77,3 +76,14 @@ and talking to end-users on how they use the product offers vital clue on how th
 product is being perceived outside of the factory (i.e. development team). Understanding 
 this helps in prioritising product issues and help improve product offering and 
 visibility.
+
+# Contact
+
+If you are a recruiter, try to read and ensure if I would be a good fit for the Company 
+that will eventually pay you for your Services. End of the day, it isn't about just 
+technology tools match. For a longer relationship, I think, the overall picture matters. 
+
+That said, I am open towards long-term contracts across Companies or full-time role in a 
+place that factors in holistic development.
+
+Currently I'm <span class="sign-board">open</span> for new opportunities.
