@@ -1,3 +1,6 @@
+---
+---
+
 @import "{{ site.theme }}";
 
 span.tool {
@@ -33,4 +36,8 @@ li.link-to-post {
 
 h3.post-date {
   color: #2e93b1;
+}
+
+p.read-more {
+  text-align: end;
 }

@@ -9,7 +9,7 @@ title: Blog posts
     <li class="link-to-post">
       <h3 class="post-date">{{ post.date | date: '%B %e, %Y' }}</h3>
       <p>{{ post.excerpt }}</p>
-      <p><a href="{{ post.url }}">To read more...</a></p>
+      <p class="read-more"><a href="{{ post.url }}">To continue reading...</a></p>
     </li>
   {% endfor %}
 </ul>
