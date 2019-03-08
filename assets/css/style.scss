@@ -1,6 +1,3 @@
----
----
-
 @import "{{ site.theme }}";
 
 span.tool {
@@ -28,4 +25,12 @@ span.sign-board {
   font-size: inherit;
   font-weight: bold;
   padding: 0.4em;
+}
+
+li.link-to-post {
+  list-style-type: none;
+}
+
+h3.post-date {
+  color: #2e93b1;
 }

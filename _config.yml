@@ -23,5 +23,7 @@
 theme: jekyll-theme-cayman
 title: Webplumbr
 description: Providing web solutions for business needs
+post_subtitle: A window to my world
 markdown: kramdown
 owner_name: Webplumbr
+excerpt_separator: <!--more-->
