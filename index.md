@@ -33,9 +33,7 @@ tools:
 
 > Hi! This is Prasanna (a.k.a Webplumbr). 
 
-I am an experienced web applications 
-developer with site operations background, offering solutions for business and 
-community needs. I am presently based out of Sydney, Australia.
+I am an experienced web applications developer with site operations background, offering solutions for business and community needs. I am presently based out of Sydney, Australia.
 
 I like solving technical problems and these days I enjoy sharing my learned 
 experience with Junior members of the team. It is hard to limit myself to a 
@@ -49,10 +47,7 @@ exists already. Now, how it is implemented and other considerations come with
 experience. I advocate less complicated frameworks or implementations that follow 
 a pattern and offers predictable and repeatable approach in solving a problem.
 
-These days, I prefer a work-life balance in order to focus and spend time with 
-my family. So, please keep this in mind before you consider me for a role. That 
-said, I am committed to what I undertake and thrive well in environment that 
-has less layers of fat and a consideration for basic human values.
+I enjoy working in progressive minded places that value human relationship. I am committed to what I undertake and thrive well in supportive environment.
 
 I have worked across different sized Companies, profit and non-profit, and 
 across economies, developed ones such as US of A, New Zealand, Australia 
@@ -76,12 +71,8 @@ applies. Some relevant technology skills:
  
 # The Where
 
-I enjoy automating tasks, analysing and interpreting data, and overall 
-product ownership. I see myself heading in that direction in near future. Engaging 
-and talking to end-users on how they use the product offers vital clue on how the 
-product is being perceived outside of the factory (i.e. development team). Understanding 
-this helps in prioritising product issues and help improve product offering and 
-visibility.
+I enjoy large scale web architecture related challenges, automating tasks, analysing and interpreting data. Engaging and talking to end-users on how they use the product offers vital clue on how the product is being perceived outside of the foundry (i.e. development team). Understanding this helps in prioritising product issues and help improve product offering and 
+visibility. I can see myself heading along solution architecture or product management side.
 
 # Contact
 
