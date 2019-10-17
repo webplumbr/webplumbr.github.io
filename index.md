@@ -6,9 +6,7 @@ tools:
   - PHP 7
   - MySQL 5.x
   - Mongo DB
-  - JavaScript (ECMA 5)
-  - TypeScript
-  - Python
+  - JavaScript (ECMA 5 & 6)
   - Docker
   - Vagrant
   - Apache
@@ -16,13 +14,9 @@ tools:
   - Shell scripting
   - Linux
   - REST API
-  - Regex
-  - jQuery
-  - Bootstrap
   - Laravel
   - Symfony
   - Git
-  - Bamboo CI
   - AWS
   - Ansible
   - Elastisearch
