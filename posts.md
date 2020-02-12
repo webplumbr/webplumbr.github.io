@@ -1,6 +1,7 @@
 ---
 layout: list_of_posts
 title: Blog posts
+description: A window to my world
 ---
 <h1>Latest Posts</h1>
 
