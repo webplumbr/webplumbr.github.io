@@ -7,7 +7,7 @@ tools:
   - PHP 7
   - MySQL 5.x
   - Mongo DB
-  - JavaScript (ECMA 5 & 6)
+  - JavaScript (ECMAScript 6)
   - Docker
   - Vagrant
   - Apache
@@ -23,6 +23,7 @@ tools:
   - Elastisearch
   - Logstash
   - Varnish Cache
+  - Python 3
 ---
 # The Who
 
@@ -42,7 +43,7 @@ exists already. Now, how it is implemented and other considerations come with
 experience. I advocate less complicated frameworks or implementations that follow 
 a pattern and offers predictable and repeatable approach in solving a problem.
 
-I enjoy working in progressive minded places that value human relationship. I am committed to what I undertake and thrive well in supportive environment.
+> I enjoy working in progressive minded places that value human relationship. I am committed to what I undertake and thrive well in supportive environment.
 
 I have worked across different sized Companies, profit and non-profit, and 
 across economies, developed ones such as US of A, New Zealand, Australia 
@@ -66,8 +67,7 @@ applies. Some relevant technology skills:
  
 # The Where
 
-I enjoy large scale web architecture related challenges, automating tasks, analysing and interpreting data. Engaging and talking to end-users on how they use the product offers vital clue on how the product is being perceived outside of the foundry (i.e. development team). Understanding this helps in prioritising product issues and help improve product offering and 
-visibility. I can see myself heading along solution architecture or product management side.
+I enjoy large scale web architecture related challenges, automating tasks, analysing and interpreting data, interacting with end-users and story-boarding product features/requirements. I can see myself heading along solution architecture or product management side on the long run.
 
 # Contact
 
