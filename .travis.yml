@@ -1,5 +1,6 @@
 install:
-  - gem install rake github-pages
+  - gem install rake github-pages jekyll
+script: bundle exec jekyll serve
 deploy:
   provider: pages
   skip_cleanup: true
