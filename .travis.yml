@@ -1,5 +1,5 @@
 install:
-  - gem install rake
+  - gem install rake github-pages
 deploy:
   provider: pages
   skip_cleanup: true
