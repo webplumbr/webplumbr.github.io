@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Webplumbr
-description: Providing web solutions for business needs
+description: Providing web solutions and quality support for business needs
 tools:
   - PHP 5
   - PHP 7
@@ -29,7 +29,7 @@ tools:
 
 > Hi! This is Prasanna (a.k.a Webplumbr). 
 
-I am an experienced web applications developer with site operations background, offering solutions for business and community needs. I am presently based out of Sydney, Australia.
+I am an experienced web applications developer with site operations background, offering solutions and quality technical support for business and community needs. I am presently based out of Sydney, Australia.
 
 I like solving technical problems and these days I enjoy sharing my learned 
 experience with Junior members of the team. It is hard to limit myself to a 
@@ -67,17 +67,10 @@ applies. Some relevant technology skills:
  
 # The Where
 
-I enjoy large scale web architecture related challenges, automating tasks, analysing and interpreting data, interacting with end-users and story-boarding product features/requirements. I can see myself heading along solution architecture or product management side on the long run.
+I enjoy investigating technical issues, liaising with teams, interacting with end-users, participating in product iteration based on customer feedback, automating repetitive tasks, analysing and interpreting data. 
 
 # Contact
 
-If you are a recruiter, try to read and ensure if I would be a good fit for the Company 
-that will eventually pay you for your Services. End of the day, it isn't about just 
-technology tools match. For a longer relationship, I think, the overall picture matters. 
-
-That said, I am open towards long-term contracts across Companies or full-time role in a 
-place that factors in holistic development.
+Currently I'm <span class="sign-board">open</span> for new opportunities.
 
 > **contact** [at] **webplumbr** [dot] **com**
-
-Currently I'm <span class="sign-board">open</span> for new opportunities.
