@@ -71,6 +71,6 @@ I enjoy investigating technical issues, liaising with teams, interacting with en
 
 # Contact
 
-Currently I'm <span class="sign-board">open</span> for new opportunities.
+Currently I'm <span class="sign-board">closed</span> for new opportunities.
 
 > **contact** [at] **webplumbr** [dot] **com**
